@@ -1,6 +1,6 @@
 function Cacique (rappi) {
     if (rappi === 'hamburguer') {
-        console.log('Xablau')
+        console.log('Xablau');
     }
 }
 
